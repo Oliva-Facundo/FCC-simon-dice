@@ -18,7 +18,7 @@ function App() {
 
   const handleAvailableGame = () => {
     setStartGame(!startGame);
-    setRound(19);
+    setRound(1);
     setSecuence([]);
     setUserInputs([]);
     setColors({
